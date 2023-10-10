@@ -1,0 +1,2 @@
+# QAPortfolio
+Portfolio vezba
