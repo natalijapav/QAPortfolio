@@ -1,4 +1,4 @@
-# QAPortfolio
+# QA Portfolio
 
 Welcome to my QA portfolio. There are two projects that I'm working on. First project are improvements for the website https://milkovicdesignstudio.webflow.io. It is a website for providing services of Web design, Web Development etc. 
 
